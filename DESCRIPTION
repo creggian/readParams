@@ -1,0 +1,12 @@
+Package: readParams
+Type: Package
+Title: Read and Parse Parameters From Command Line
+Version: 0.0.1
+Author: Claudio Reggiani
+Maintainer: Claudio Reggiani <nophiq@gmail.com>
+Description: Reading and parsing of parameters from command line in
+    the form of key=value.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0
