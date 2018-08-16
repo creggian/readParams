@@ -5,6 +5,12 @@ I wanted to get rid of all hardcoded parameters in my script and at the same tim
 
 `Rscript myscript.R --arg1=param1 --arg2=param2`
 
+Install
+-------
+
+    library("devtools")
+    install_github("creggian/readParams")
+
 Why
 ---
 
